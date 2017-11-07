@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+}
+
+.quadro {
+    width:400px;
+    height:400px;
+    background-color: #cdf17f;
+    color: #314603;
+    border: 3px solid red;
+    border-radius: 10px;
+}
+
+img {
+    border: 3px solid #3f0505;
+    border-radius: 10px;
+}
